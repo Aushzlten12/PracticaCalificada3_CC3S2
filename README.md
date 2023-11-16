@@ -29,3 +29,5 @@ sqlite>
 ```
 
 - ¿Qué datos de semilla se insertaron y dónde se especificaron? (Pista: rake -T db:seed explica la tarea de semilla, rake -T explica otras tareas de Rake disponibles)
+
+Los datos de seeds.rb
